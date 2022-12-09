@@ -1,3 +1,39 @@
 # Python Session 2022, Course Outline
 
-- 
+- Introduction
+- Getting Started with Replit
+- Syntax
+- Comments
+- Variables
+  - Python Variables
+  - Nameing Variables
+  - Assigning Multiple Values
+  - Output Variables
+  - Global Variables (included after functions)
+  - Exercises
+- Data Types
+- Numbers; Int, Float, Complex
+- Casting; Assigning Types
+- Strings
+  - Slicing Strings
+  - Modify Strings
+  - Concatenate Strings
+  - Format Strings
+  - Escape Characters
+  - String Methods
+  - String Exercises
+- Booleans
+- Operators
+- Lists / Python Arrays
+- Tuples
+- Sets
+- Dictionaries
+- Conditions; If...Else
+- While Loops
+- For Loops
+- Functions
+- Lambda
+- Classes/Objects
+- Inheritance (OOP)
+- Iterators
+- Python installation
